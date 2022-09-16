@@ -1,7 +1,7 @@
 # BOMBA
-## Quer tomar bomba? 
+### Quer tomar bomba? Só se for de JavaScript
 
-### ITENS DE REFORÇO, PRA RESOLVER TODAS AS DÚVIDAS QUE SURGIRAM SALA DE AULA.
+## ITENS DE REFORÇO, PRA RESOLVER TODAS AS DÚVIDAS QUE SURGIRAM SALA DE AULA.
 
 #### Aqui vocês encontrarão exercícios de JS de acordo com o que vimos de sala de aula.
 
